@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Layoutilayout</string>
+    <string name="CV"> <![CDATA[ <b>Glorius! Said the bastard!</b>
+    \nMass Effect 2 är ett actionrollspel utvecklat av Bioware och utgivet
+        av Electronic Arts till Microsoft Windows och Xbox 360 i januari 2010,
+        <h1>och till Playstation 3 i januari 2011.</h1> \nSpelet är den andra delen i Mass Effect-serien
+        och uppföljaren till Mass Effect från 2007. Spelet utspelar sig i Vintergatan under 2200-talet,
+        där mänskligheten blir hotad av en utomjordisk ras kallad Collectors. Spelaren antar rollen
+        som Commander Shepard, en mänsklig elitsoldat som måste bygga upp och vinna lojaliteten hos
+        en mångsidig grupp för att besegra fienden i ett självmordsuppdrag.
+        Med hjälp av en färdig sparfil från det föregående spelet kan spelaren
+        påverka berättelsen i spelet på olika sätt.]]></string>
+</resources>
